@@ -19,7 +19,7 @@ def speak_to_grandma(string)
   elsif string == string.downcase
     puts 'HUH?! SPEAK UP, SONNY!'
   else 
-    puts 
+    puts 'NO, NOT SINCE 1938!'
   end
 end
 
