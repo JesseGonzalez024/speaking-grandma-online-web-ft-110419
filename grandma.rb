@@ -24,5 +24,3 @@ def speak_to_grandma(string)
     return 'HUH?! SPEAK UP, SONNY!'
   end
 end
-
-speak_to_grandma("LOVE YOU GRANDMA!")
