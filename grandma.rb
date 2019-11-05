@@ -24,4 +24,4 @@ def speak_to_grandma(string)
   end
 end
 
-return speak_to_grandma("LOVE YOU GRANDMA!")
+return speak_to_grandma
