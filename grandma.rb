@@ -16,8 +16,8 @@
 def speak_to_grandma(string)
   if string == 'I LOVE YOU GRANDMA!'
     puts 'I LOVE YOU TOO PUMPKIN!'
-  elsif
-  
+  elsif string == string.downcase
+    puts 
   else
     
   end
